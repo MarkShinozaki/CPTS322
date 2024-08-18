@@ -4,7 +4,7 @@
 > ***For Easy Navigation of all topics, click on the Menu Icon towards the top right of the page***
 
 
-## Textbook Reading Summary 1
+## [Textbook Reading Summary 1](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary1.pdf)
 #### Overview:
 - This summary covers various topics related to the software process, project planning, and risk management in software engineering.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Textbook Reading Summary 2
+## [Textbook Reading Summary 2](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary2.pdf)
 #### Overview:
 - This summary delves into process models and patterns in software engineering.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Textbook Reading Summary 3
+## [Textbook Reading Summary 3](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary3.pdf)
 #### Overview:
 - This summary focuses on traditional software development methodologies and testing strategies.
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Textbook Reading Summary 4
+## [Textbook Reading Summary 4](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary4.pdf)
 #### Overview:
 - This summary covers topics related to design patterns, prototyping, and risk management in software engineering.
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Textbook Reading Summary 5
+## [Textbook Reading Summary 5](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary5.pdf)
 #### Overview:
 - This summary delves into specialized process models and methodologies in software engineering.
 
@@ -87,7 +87,7 @@
 
 ---
 
-## Textbook Reading Summary 6
+## [Textbook Reading Summary 6](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary6.pdf)
 #### Overview:
 - This summary focuses on agile methodologies, with a particular emphasis on Extreme Programming (XP) and the values that drive agile practices.
 
@@ -102,7 +102,7 @@
 
 ---
 
-## Textbook Reading Summary 7
+## [Textbook Reading Summary 7](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary7.pdf)
 #### Overview:
 - This summary focuses on requirements engineering (RE) and the process of gathering, analyzing, and managing software requirements.
 
@@ -121,7 +121,7 @@
 
 ---
 
-## Textbook Reading Summary 8
+## [Textbook Reading Summary 8](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary8.pdf)
 #### Overview:
 - This summary discusses use case modeling and the differences between RE models and process models.
 
@@ -140,7 +140,7 @@
 
 ---
 
-## Textbook Reading Summary 9
+## [Textbook Reading Summary 9](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary9.pdf)
 #### Overview:
 - This summary covers domain analysis and requirements modeling techniques in software engineering. 
 
@@ -159,7 +159,7 @@
 
 ---
 
-## Textbook Reading Summary 10
+## [Textbook Reading Summary 10](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary10.pdf)
 #### Overview:
 - This summary explores advanced modeling techniques in software engineering, focusing on activity diagrams, swimlane diagrams, and their applications.
 
@@ -176,7 +176,7 @@
 
 ---
 
-## Textbook Reading Summary 11
+## [Textbook Reading Summary 11](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary11.pdf)
 #### Overview:
 - This summary delves into data modeling within the context of software requirements engineering.
 
@@ -193,7 +193,7 @@
 
 ---
 
-## Textbook Reading Summary 12
+## [Textbook Reading Summary 12](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary12.pdf)
 #### Overview:
 - This summary covers object-oriented modeling concepts, focusing on classes, objects, and the relationships between them.
 
@@ -210,7 +210,7 @@
 
 ---
 
-## Textbook Reading Summary 13
+## [Textbook Reading Summary 13](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary13.pdf)
 #### Overview:
 - This summary focuses on the relationships between classes in object-oriented design, including associations, aggregations, and dependencies.
 
@@ -227,7 +227,7 @@
 
 ---
 
-## Textbook Reading Summary 14
+## [Textbook Reading Summary 14](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary14.pdf)
 #### Overview:
 - This summary discusses the transition from requirements modeling to design modeling in software engineering. 
 
@@ -244,7 +244,7 @@
 
 ---
 
-## Textbook Reading Summary 15
+## [Textbook Reading Summary 15](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary15.pdf)
 #### Overview:
 - This summary discusses flow-oriented modeling and data flow diagrams (DFDs) in software engineering.
 
@@ -261,7 +261,7 @@
 
 ---
 
-## Textbook Reading Summary 16
+## [Textbook Reading Summary 16](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary16.pdf)
 #### Overview:
 - This summary covers the elements of the analysis model in software engineering, focusing on scenario-based, class-based, flow-oriented, and behavioral modeling.
 
@@ -280,7 +280,7 @@
 
 ---
 
-## Textbook Reading Summary 17
+## [Textbook Reading Summary 17](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary17.pdf)
 #### Overview:
 - This summary explores behavioral modeling and analysis patterns in software engineering.
 
@@ -297,7 +297,7 @@
 
 ---
 
-## Textbook Reading Summary 18
+## [Textbook Reading Summary 18](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary18.pdf)
 #### Overview:
 - This summary discusses the transition from requirements modeling to design modeling in software engineering.
 
@@ -314,7 +314,7 @@
 
 --- 
 
-## Textbook Reading Summary 19
+## [Textbook Reading Summary 19](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary19.pdf)
 #### Overview:
 - This summary covers the refinement of classes from the requirements phase to the design phase, focusing on the roles of boundary, controller, and entity classes. 
 
@@ -332,7 +332,7 @@
 ---
 
 
-## Textbook Reading Summary 20
+## [Textbook Reading Summary 20](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary20.pdf)
 #### Overview:
 - This summary focuses on software architecture, highlighting the transition from high-level design to detailed component-level design.
 
@@ -349,7 +349,7 @@
 
 --- 
 
-## Textbook Reading Summary 21
+## [Textbook Reading Summary 21](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary21.pdf)
 #### Overview:
 - This summary discusses the role of different elements in requirements modeling and how they contribute to the creation of design models in software engineering.
 
@@ -366,7 +366,7 @@
 
 --- 
 
-## Textbook Reading Summary 22
+## [Textbook Reading Summary 22](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary22.pdf)
 #### Overview:
 - This summary focuses on component-level design and the process of elaborating design models to guide software implementation.
 
@@ -383,7 +383,7 @@
 
 ---
 
-## Textbook Reading Summary 23
+## [Textbook Reading Summary 23](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary23.pdf)
 #### Overview:
 - This summary continues the discussion on component-level design, focusing on the refinement of design models and the importance of adhering to design principles.
 
@@ -400,7 +400,7 @@
 
 ---
 
-## Textbook Reading Summary 24
+## [Textbook Reading Summary 24](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary24.pdf)
 #### Overview:
 - This summary discusses different aspects of software design, focusing on data/class design, architectural design, interface design, and component-level design.
 
@@ -419,7 +419,7 @@
 
 ---
 
-## Textbook Reading Summary 25
+## [Textbook Reading Summary 25](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary25.pdf)
 #### Overview:
 - This summary covers the process of component-based software engineering (CBSE) and the reuse of software components.
 
@@ -436,7 +436,7 @@
 
 ---
 
-## Textbook Reading Summary 26
+## [Textbook Reading Summary 26](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary26.pdf)
 #### Overview:
 - This summary focuses on user interface (UI) design, covering principles, design processes, and common challenges.
 
@@ -453,7 +453,7 @@
 
 ---
 
-## Textbook Reading Summary 27
+## [Textbook Reading Summary 27](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary27.pdf)
 #### Overview:
 - This summary focuses on the quality of software design and the process of ensuring that the design meets the specified requirements and performance goals. 
 
@@ -472,7 +472,7 @@
 
 ---
 
-## Textbook Reading Summary 28
+## [Textbook Reading Summary 28](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary28.pdf)
 #### Overview:
 - This summary discusses software verification and validation, with a focus on formal technical reviews and the use of metrics. Key topics include:
 
@@ -487,7 +487,7 @@
 
 ---
 
-## Textbook Reading Summary 29
+## [Textbook Reading Summary 29](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary29.pdf)
 #### Overview:
 - This summary covers software testing strategies and the characteristics of a good test. 
 
@@ -504,7 +504,7 @@
 
 ---
 
-## Textbook Reading Summary 30
+## [Textbook Reading Summary 30](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary30.pdf)
 #### Overview:
 - This summary focuses on testing strategies, particularly in the context of object-oriented (OO) systems.
 
@@ -521,7 +521,7 @@
 
 ---
 
-## Textbook Reading Summary 31
+## [Textbook Reading Summary 31](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/TextbookReadingSummary31.pdf)
 #### Overview:
 - This summary discusses effective software project management, focusing on the four P's: People, Product, Process, and Project. 
 
@@ -535,16 +535,6 @@
 
 #### Key Takeaways:
 - The summary underscores that successful software project management hinges on balancing and integrating the four P's, ensuring that each aspect is well-managed to achieve project goals.
-
----
-
-## Textbook Reading Summary 32
-#### Overview:
-- This summary is expected to provide insights into software testing, verification, or other aspects of project management, given the sequence of topics in previous summaries. Since this summary was not uploaded, I can only infer that it would likely continue to build on testing strategies, project management principles, or other software engineering best practices.
-
-#### Key Takeaways:
-- The summary emphasizes the importance of designing comprehensive tests that consider the intricacies of object-oriented systems, particularly the need to test inherited and encapsulated behaviors
-
 
 
 
