@@ -1,5 +1,9 @@
 # Lecture/Slides 
 
+> [!TIP]
+> ***For Easy Navigation of all topics, click on the Menu Icon towards the top right of the page***
+
+
 ## Textbook Reading Summary 1
 #### Overview:
 - This summary covers various topics related to the software process, project planning, and risk management in software engineering.
