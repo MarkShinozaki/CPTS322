@@ -1,4 +1,4 @@
-# CPTS322
+# Washinton State Univsersity - CPTS 322
 
 ## Software Engineering Principles 1, Complete Course Navigation
 
