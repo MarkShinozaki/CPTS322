@@ -42,6 +42,8 @@ Milestone 4 is centered on proposing a high-level architecture for the project, 
 ##### [What Was Done](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-Milestones/Project%20Milestone%204/Milestone4_FireMap_CptS322%20(Architectural%20Design).pdf) :
 For Milestone 4, the FireMap team developed an architectural context diagram and component diagrams to outline the system's high-level architecture. The architectural context diagram positioned the FireMap system within its broader environment, showing how it interacts with external systems and stakeholders. The component diagrams broke down the system into its core components, such as data scraping modules, user interface components, and backend processing units. These diagrams provided a clear picture of how the different parts of the system would work together to achieve the project's goals.
 
+---
+
 ### [Project Milestone 5](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-Milestones/Project%20Milestone%205)
 
 #### Milestone 5: Component-Level Design
@@ -50,6 +52,8 @@ The objective of Milestone 5 is to proceed with the architectural design and dev
 
 ##### [What Was Done](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-Milestones/Project%20Milestone%205/firemap_milestone5%20(Component-level%20design).pdf) :
 For Milestone 5, the FireMap team created elaborated component diagrams and class diagrams for the main components of the system, such as the map component, loading component, and sidebar component. These diagrams were enhanced with detailed attributes, operations, and interfaces, providing a clear blueprint for implementation. The elaborated diagrams ensured that every aspect of the component, from data types to processing logic, was well-defined, enabling a smooth transition from design to coding. The team’s submission included all required diagrams and adhered to the guidelines specified in the rubric.
+
+---
 
 ### [Project Milestone 6](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-Milestones/Project%20Milestone%206)
 
@@ -60,6 +64,8 @@ Milestone 6 focuses on the implementation phase, where the design created in Mil
 ##### [What Was Done](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-Milestones/Project%20Milestone%206/cpts322_milestone6_firemap%20(Construction%20-%20Implementation).pdf) :
 For Milestone 6, the FireMap team implemented the components designed in Milestone 5. They developed the code for the map, loading, and sidebar components, ensuring that each component adhered to the design specifications. The implementation was pushed to the team’s GitHub repository, which was linked in the submission. The submission also included a brief description of the project and the code, providing an overview of the work done. The implementation stage was focused on converting the design into code, setting up the foundation for a functioning prototype to be demonstrated later.
 
+---
+
 ### [Project Milestone 7](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-Milestones/Project%20Milestone%207)
 
 #### Milestone 7: Testing
@@ -68,6 +74,9 @@ Milestone 7 focuses on testing the implementation developed in previous mileston
 
 ##### [What Was Done](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-Milestones/Project%20Milestone%207/firemap_milestone7_cpts322%20(Construction%20-%20testing).pdf) :
 For Milestone 7, the FireMap team developed unit test cases for various components of the system, including the Map, Sidebar, and Toggle components. Each test case was carefully constructed to verify that the component works as expected. For example, the Map component was tested to ensure it correctly renders a fire marker when provided with specific fire data. The Sidebar component was tested to verify that it accurately displays fire information, such as location and incident size, based on input data. The team documented these test cases in detail, outlining the test inputs and expected outputs for each component.
+
+
+---
 
 ### [Project Milestone 8](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-Milestones/Project%20Milestone%207)
 
