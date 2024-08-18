@@ -73,4 +73,4 @@
 
 ---
 
-### [Next Course - CPTS 322 - Software Engineering Principles 1 ](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1)
+### [Next Course - CPTS 327 - CyberSecurity & CryptoGraphy](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy)
