@@ -10,7 +10,7 @@
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Course-Information)
 
 ---
-### 2. [Resources](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Resources/README.md)
+### 2. [Additional Resources](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Resources/README.md)
 
 ---
 
